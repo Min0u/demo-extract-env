@@ -1,1 +1,1 @@
-echo "The Job ID is: $GITHUB_JOB"
+echo "The Job ID is: $GITHUB_RUN_ID"
